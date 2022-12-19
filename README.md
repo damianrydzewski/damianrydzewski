@@ -1,16 +1,15 @@
-### Hi there 👋
+ Hi, I'm Damian! 👋
+------------------------------------------------------------
 
-<!--
-**damianrydzewski/damianrydzewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working on PortalPatient app. 
+🌱 Learning and having fun building incredible apps. 
+👨‍💻 Love programming ❤️
 
-Here are some ideas to get you started:
+💪 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SwiftUI XCode MVVM Firebase Combine Swift Concurrency 
+
+💻 Tech Stack
+
+Swift Firebase Realm 
+

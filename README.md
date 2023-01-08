@@ -2,7 +2,7 @@
 🔭 I’m currently working on PortalPatient app. <br>🌱 Learning and having fun building incredible apps. <br>👨‍💻 Love programming ❤️
 
 # 💪 Skills:
-SwiftUI. Swift. MVVM. XCode. Firebase. Swift-Concurrency. Combine. Async Await. 
+SwiftUI. Swift. MVVM. XCode. Firebase. Combine. Async Await. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/damian-rydzewski) 
 

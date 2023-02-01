@@ -1,5 +1,5 @@
 # Hi, I'm Damian! 👋
-🔭 I’m currently working on PortalPatient app. <br>🌱 Learning and having fun building incredible apps. <br>👨‍💻 Love programming ❤️
+🔭 I’m currently working on private project. <br>🌱 Learning and having fun building incredible apps. <br>👨‍💻 Love programming ❤️
 
 # 💪 Skills:
 SwiftUI. Swift. MVVM. XCode. Firebase. Combine. Async Await. 

@@ -1,8 +1,10 @@
 # Hi, I'm Damian! 👋
-🔭 I’m currently working on private project. <br>🌱 Learning and having fun building incredible apps. <br>👨‍💻 Love programming ❤️
+🌱 Learning and having fun building incredible apps. <br>👨‍💻 Love programming ❤️
 
 # 💪 Skills:
-SwiftUI. Swift. MVVM. XCode. Firebase. Combine. Async Await. 
+<b>Web</b>: Python. SQL. Django. Linux. 
+
+<b>Mobile</b>: SwiftUI. Swift. MVVM. XCode. Firebase. Combine. Async Await. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/damian-rydzewski) 
 
